@@ -1,6 +1,6 @@
-Nn,Aa,Dd=input().split()
-Nn=int(Nn)
-Aa=int(Aa)
-Dd=int(D)
-ss=(Nn*(2*Aa+(Nn-1)*Dd))//2
-print(ss)
+Nnn,Aaa,Ddd=input().split()
+Nnn=int(Nnn)
+Aaa=int(Aaa)
+Ddd=int(Ddd)
+sss=(Nnn*(2*Aaa+(Nn-1)*Ddd))//2
+print(sss)
