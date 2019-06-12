@@ -1,2 +1,2 @@
-number=int(input())
-print(number)
+nivi=int(input())
+print(nivi)
